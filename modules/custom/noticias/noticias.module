@@ -1,0 +1,9 @@
+<?php
+
+use Drupal\Core\Routing\RouteMatchInterfase;
+
+function noticias_help($route_name, RouteMatchInterfase $route_match)
+{
+
+}
+ 
