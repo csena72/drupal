@@ -72,3 +72,8 @@ footer.node__meta{
 .site-logo img{
     width: 50px;
 }
+
+.block-help{
+    padding: 10px;
+    background-color: aqua;
+}
