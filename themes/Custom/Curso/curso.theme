@@ -1,0 +1,10 @@
+    <?php
+
+function curso_preprocess(&$variables) {
+    $variables['texto'] =  '<a href="www.google.com">click</a>';
+    $variables['fecha'] =  time();
+}
+
+function curso_preprocess_region__buscador(&$variables) {
+    $variables['rutalogo'] = drupal_get_path('theme','curso') . '/images/seta.svg';
+}
