@@ -3,4 +3,6 @@ description: Módulo de gestión y visualización de noticias
 package: custom
 type: module
 version: 1.0
-core: 8.x  
+core: 8.x
+dependencies:
+  - block
