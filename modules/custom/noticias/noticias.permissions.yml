@@ -1,6 +1,6 @@
 access content:
   title: 'Acceso a las noticias'
-  description: 'Premite acceder a la vista de detalle o resumen de las noticias'
+  description: 'Permite acceder a la vista de detalle o resumen de las noticias'
 
 access config:
   title: 'Acceso a la configuración del módulo'
